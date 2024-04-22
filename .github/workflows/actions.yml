@@ -1,7 +1,7 @@
 name: Terraform Deployment on AWS
 
 on:
-  workflow_call:
+  workflow_dispatch:
 
 jobs:
   tfsec:
